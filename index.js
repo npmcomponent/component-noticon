@@ -3,8 +3,8 @@
  * Module dependencies.
  */
 
-var style = require('style')
-  , favicon = require('favicon');
+var style = require('component-style')
+  , favicon = require('component-favicon');
 
 /**
  * Expose `Noticon()`.
